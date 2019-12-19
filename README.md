@@ -9,7 +9,7 @@ There are three inputs for the checkCashRegister() function:
 <br>
 <h3>cid</h3> = The amount of cash in the drawer. This is input as an array
 <br><br>
-Example =
+<b>Example</b> =
 <br>
 console.log(checkCashRegister(19.5, 20, [["PENNY", 0.5], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]));
 <br><br>
