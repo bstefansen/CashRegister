@@ -14,7 +14,7 @@ Example =
 console.log(checkCashRegister(19.5, 20, [["PENNY", 0.5], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]));
 <br><br>
 If the register determines there is enough change to complete the transaction, it will output its status as <b>"OPEN"</b>
-<br>
-If the register determines there is not enough change to complete the transaction, it will output its status as "INSUFFICIENT_FUNDS"
-<br>
-If the register determines there is just enough change to complete the transaction, it will output its status as "CLOSED"
+<br><br>
+If the register determines there is not enough change to complete the transaction, it will output its status as <b>"INSUFFICIENT_FUNDS"</b>
+<br><br>
+If the register determines there is just enough change to complete the transaction, it will output its status as <b>"CLOSED"</b>
