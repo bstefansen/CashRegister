@@ -3,9 +3,9 @@ A java-script program that simulates a cash register returning change.
 
 There are three inputs for the checkCashRegister() function:
 <br>
-<h3>price</h3> = The price of an item
+<h3>price</h3> = The price of an item.
 <br>
-<h3>cash</h3> = The amount of cash the customer is using to pay
+<h3>cash</h3> = The amount of cash the customer is using to pay.
 <br>
 <h3>cid</h3> = The amount of cash in the drawer. This is input as an array
 <br><br>
